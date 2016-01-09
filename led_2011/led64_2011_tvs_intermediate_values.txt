@@ -1,0 +1,283 @@
+plaintext: 0000000000000000
+key: 0000000000000000
+(step round) function: state
+  (0) add_key:   0000000000000000
+  (0 0) add_consts: 0000110020003100
+  (0 0) sub_cells:  cccc55cc6cccb5cc
+  (0 0) shift_rows: cccc5cc5cc6ccb5c
+  (0 0) mix_cols:   07f0024094b94154
+  (0 1) add_consts: 07f01140b4b97254
+  (0 1) sub_cells:  cd2c559c898ed609
+  (0 1) shift_rows: cd2c59c58e899d60
+  (0 1) mix_cols:   2eb1aa4cc8dbcb1f
+  (0 2) add_consts: 2eb1bd4ce8dbfc1f
+  (0 2) sub_cells:  6185879413782452
+  (0 2) shift_rows: 6185794878132245
+  (0 2) mix_cols:   6a830999122ec7ea
+  (0 3) add_consts: 6b831e99332ef0ea
+  (0 3) sub_cells:  a83b51eebb612c1f
+  (0 3) shift_rows: a83b1ee561bbf2c1
+  (0 3) mix_cols:   eec8076db7112677
+  (1) add_key:   eec8076db7112677
+  (1 4) add_consts: edc8106d94111177
+  (1 4) sub_cells:  17435ca7e95555dd
+  (1 4) shift_rows: 1743ca7555e9d55d
+  (1 4) mix_cols:   b511cb954db79e24
+  (1 5) add_consts: b211dd956ab7a824
+  (1 5) sub_cells:  865577e0af8df369
+  (1 5) shift_rows: 86557e078daf9f36
+  (1 5) mix_cols:   31610f0e91120781
+  (1 6) add_consts: 36611a0eb6123281
+  (1 6) sub_cells:  baa55fc18a56b635
+  (1 6) shift_rows: baa5fc15568a5b63
+  (1 6) mix_cols:   5b03c30d3302f1b2
+  (1 7) add_consts: 5c03d00d1402c2b2
+  (1 7) sub_cells:  04cb7cc759c64686
+  (1 7) shift_rows: 04cbcc77c6596468
+  (1 7) mix_cols:   bb4f0ee86564cdc2
+  (2) add_key:   bb4f0ee86564cdc2
+  (2 8) add_consts: bd4f19e84364fac2
+  (2 8) sub_cells:  87925e139ba92f46
+  (2 8) shift_rows: 8792e135a99b62f4
+  (2 8) mix_cols:   3bd0dc147e66f7a7
+  (2 9) add_consts: 3ed0cb145b66c0a7
+  (2 9) sub_cells:  b17c485908aa4cfd
+  (2 9) shift_rows: b17c8594aa08d4cf
+  (2 9) mix_cols:   cedfea0b7251ce21
+  (2 10) add_consts: cddffc0b5151f821
+  (2 10) sub_cells:  477224c805052365
+  (2 10) shift_rows: 47724c8205055236
+  (2 10) mix_cols:   dd1c0d2ac55d1639
+  (2 11) add_consts: da1c192ae25d2239
+  (2 11) sub_cells:  7f545e6f160766be
+  (2 11) shift_rows: 7f54e6f50716e66b
+  (2 11) mix_cols:   ed6fd98981dc957f
+  (3) add_key:   ed6fd98981dc957f
+  (3 12) add_consts: ea6fc889a6dca47f
+  (3 12) sub_cells:  1fa2433efa74f9d2
+  (3 12) shift_rows: 1fa233e474fa2f9d
+  (3 12) mix_cols:   dfc26884828fa1e6
+  (3 13) add_consts: d9c27b84a48f92e6
+  (3 13) sub_cells:  7e46d839f932e61a
+  (3 13) shift_rows: 7e46839d32f9ae61
+  (3 13) mix_cols:   65b5eb405929dcc0
+  (3 14) add_consts: 61b5fc407d29ebc0
+  (3 14) sub_cells:  a580249cd76e184c
+  (3 14) shift_rows: a58049c26ed7c184
+  (3 14) mix_cols:   d30478bf09ce6585
+  (3 15) add_consts: d2046ebf28ce5385
+  (3 15) sub_cells:  76c9a18263410b30
+  (3 15) shift_rows: 76c9182a416300b3
+  (3 15) mix_cols:   61e8c5484c7f502a
+  (4) add_key:   61e8c5484c7f502a
+  (4 16) add_consts: 62e8d0486f7f652a
+  (4 16) sub_cells:  a6137c93a2d2a06f
+  (4 16) shift_rows: a613c937d2a2fa06
+  (4 16) mix_cols:   610395673a26828a
+  (4 17) add_consts: 660387671d26b08a
+  (4 17) sub_cells:  aacb3dad576a8c3f
+  (4 17) shift_rows: aacbdad36a57f8c3
+  (4 17) mix_cols:   2091e7eff8539b96
+  (4 18) add_consts: 2691f2efde53ae96
+  (4 18) sub_cells:  6ae52612710bf1ea
+  (4 18) shift_rows: 6ae561220b71af1e
+  (4 18) mix_cols:   a738bcb580d325b9
+  (4 19) add_consts: a238afb5a5d316b9
+  (4 19) sub_cells:  f6b3f280f07b5a8e
+  (4 19) shift_rows: f6b3280f7bf0e5a8
+  (4 19) mix_cols:   ac007c8a8f0faddc
+  (5) add_key:   ac007c8a8f0faddc
+  (5 20) add_consts: ae006a8aad0f9bdc
+  (5 20) sub_cells:  f1ccaf3ff7c2e874
+  (5 20) shift_rows: f1ccf3fac2f74e87
+  (5 20) mix_cols:   5c4f7ada5a0221b3
+  (5 21) add_consts: 594f6eda7f0215b3
+  (5 21) sub_cells:  0e92a17fd2c6508b
+  (5 21) shift_rows: 0e9217fac6d2b508
+  (5 21) mix_cols:   fc4508c5362034b9
+  (5 22) add_consts: ff4518c5152004b9
+  (5 22) sub_cells:  22905340506cc98e
+  (5 22) shift_rows: 229034056c50ec98
+  (5 22) mix_cols:   8c966f58af57e9bd
+  (5 23) add_consts: 8a967f588957d9bd
+  (5 23) sub_cells:  3fead2033e0d7e87
+  (5 23) shift_rows: 3fea203d0d3e77e8
+  (5 23) mix_cols:   0e7f6ce1b23a6e3c
+  (6) add_key:   0e7f6ce1b23a6e3c
+  (6 24) add_consts: 0a7f7de1963a5f3c
+  (6 24) sub_cells:  cfd2d715eabf02b4
+  (6 24) shift_rows: cfd2715dbfea402b
+  (6 24) mix_cols:   f5f71100112bc538
+  (6 25) add_consts: f5f70300312bf738
+  (6 25) sub_cells:  202dcbccb5682db3
+  (6 25) shift_rows: 202dbccc68b532db
+  (6 25) mix_cols:   9b82bc41cacabfad
+  (6 26) add_consts: 9b82a941eaca8aad
+  (6 26) sub_cells:  e836fe951f4f3ff7
+  (6 26) shift_rows: e836e95f4f1f73ff
+  (6 26) mix_cols:   5464d3737498d608
+  (6 27) add_consts: 5564c0735598e508
+  (6 27) sub_cells:  00a94cdb00e310c3
+  (6 27) shift_rows: 00a9cdb4e300310c
+  (6 27) mix_cols:   595d7101aea70024
+  (7) add_key:   595d7101aea70024
+  (7 28) add_consts: 5b5d66018ca73724
+  (7 28) sub_cells:  0807aac534fdbd69
+  (7 28) shift_rows: 0807ac5afd349bd6
+  (7 28) mix_cols:   66a1c1a4741f16ef
+  (7 29) add_consts: 63a1d7a4511f20ef
+  (7 29) sub_cells:  abf57df905526c12
+  (7 29) shift_rows: abf5df97520526c1
+  (7 29) mix_cols:   ddb89ecbd820da19
+  (7 30) add_consts: deb88acbfb20ee19
+  (7 30) sub_cells:  71833f48286c115e
+  (7 30) shift_rows: 7183f4836c28e115
+  (7 30) mix_cols:   39866c52fe0bf960
+  (7 31) add_consts: 3e867c52d90bc960
+  (7 31) sub_cells:  b13ad4067ec84eac
+  (7 31) shift_rows: b13a406dc87ec4ea
+  (7 31) mix_cols:   efbbbd6d368b8999
+  final add_key:   efbbbd6d368b8999
+
+plaintext: 0123456789abcdef
+key: 0123456789abcdef
+(step round) function: state
+  (0) add_key:   0000000000000000
+  (0 0) add_consts: 0000110020003100
+  (0 0) sub_cells:  cccc55cc6cccb5cc
+  (0 0) shift_rows: cccc5cc5cc6ccb5c
+  (0 0) mix_cols:   07f0024094b94154
+  (0 1) add_consts: 07f01140b4b97254
+  (0 1) sub_cells:  cd2c559c898ed609
+  (0 1) shift_rows: cd2c59c58e899d60
+  (0 1) mix_cols:   2eb1aa4cc8dbcb1f
+  (0 2) add_consts: 2eb1bd4ce8dbfc1f
+  (0 2) sub_cells:  6185879413782452
+  (0 2) shift_rows: 6185794878132245
+  (0 2) mix_cols:   6a830999122ec7ea
+  (0 3) add_consts: 6b831e99332ef0ea
+  (0 3) sub_cells:  a83b51eebb612c1f
+  (0 3) shift_rows: a83b1ee561bbf2c1
+  (0 3) mix_cols:   eec8076db7112677
+  (1) add_key:   efeb420a3ebaeb98
+  (1 4) add_consts: eceb550a1dbadc98
+  (1 4) sub_cells:  141800cf578f74e3
+  (1 4) shift_rows: 14180cf08f57374e
+  (1 4) mix_cols:   1c97cf56c883dd30
+  (1 5) add_consts: 1b97d956ef83eb30
+  (1 5) sub_cells:  58ed7e0a123b18bc
+  (1 5) shift_rows: 58ede0a73b12c18b
+  (1 5) mix_cols:   4167db061c01ab03
+  (1 6) add_consts: 4667ce063b019e03
+  (1 6) sub_cells:  9aad41cab8c5e1cb
+  (1 6) shift_rows: 9aad1ca4c5b8be1c
+  (1 6) mix_cols:   d73d4119f5f2228d
+  (1 7) add_consts: d03d5219d2f2118d
+  (1 7) sub_cells:  7cb7065e76265537
+  (1 7) shift_rows: 7cb765e026767553
+  (1 7) mix_cols:   3605170abca5b404
+  (2) add_key:   3726526d350e79eb
+  (2 8) add_consts: 3126456d130e4eeb
+  (2 8) sub_cells:  b56a90a75bc19118
+  (2 8) shift_rows: b56a0a79c15b8911
+  (2 8) mix_cols:   2e40b10bc0eeaefe
+  (2 9) add_consts: 2b40a60be5ee99fe
+  (2 9) sub_cells:  689cfac81011ee21
+  (2 9) shift_rows: 689cac8f11101ee2
+  (2 9) mix_cols:   177ef562ae89ff53
+  (2 10) add_consts: 147ee3628d89c953
+  (2 10) sub_cells:  59d11ba6373e4e0b
+  (2 10) shift_rows: 59d1ba613e37b4e0
+  (2 10) mix_cols:   ffeb15868ee649fb
+  (2 11) add_consts: f8eb0186a9e67dfb
+  (2 11) sub_cells:  2318c53afe1ad728
+  (2 11) shift_rows: 231853ac1afe8d72
+  (2 11) mix_cols:   c1d1ed6d88b46ab8
+  (3) add_key:   c0f2a80a011fa757
+  (3 12) add_consts: c7f2b90a261f9657
+  (3 12) sub_cells:  4d268ecf6a52ea0d
+  (3 12) shift_rows: 4d26ecf8526adea0
+  (3 12) mix_cols:   e6c4e434a2ce77f3
+  (3 13) add_consts: e0c4f73484ce44f3
+  (3 13) sub_cells:  1c492db93941992b
+  (3 13) shift_rows: 1c49db924139b992
+  (3 13) mix_cols:   4dd5839f32d7bd7e
+  (3 14) add_consts: 49d5949f16d78a7e
+  (3 14) sub_cells:  9e70e9e25a7d3fd1
+  (3 14) shift_rows: 9e709e2e7d5a13fd
+  (3 14) mix_cols:   7ca09d7e101c09f5
+  (3 15) add_consts: 7da08b7e311c3ff5
+  (3 15) sub_cells:  d7fc38d1b554b220
+  (3 15) shift_rows: d7fc8d1354b50b22
+  (3 15) mix_cols:   3f985daebce9c79e
+  (4) add_key:   3ebb18c935420a71
+  (4 16) add_consts: 3dbb0dc916423f71
+  (4 16) sub_cells:  b788c74e5a96b2d5
+  (4 16) shift_rows: b78874ec965a5b2d
+  (4 16) mix_cols:   6264040ebc944bf2
+  (4 17) add_consts: 6564160e9b9479f2
+  (4 17) sub_cells:  a0a95ac1e8e9de26
+  (4 17) shift_rows: a0a9ac15e9e86de2
+  (4 17) mix_cols:   74f02d8b1ed1a38f
+  (4 18) add_consts: 72f0388b38d1968f
+  (4 18) sub_cells:  d62cb338b375ea32
+  (4 18) shift_rows: d62c338b75b32ea3
+  (4 18) mix_cols:   8d2ecfe05db01462
+  (4 19) add_consts: 882edce078b02762
+  (4 19) sub_cells:  3361741cd38c6da6
+  (4 19) shift_rows: 336141c78cd366da
+  (4 19) mix_cols:   7a7293fff2ff036c
+  (5) add_key:   7b51d6987b54ce83
+  (5 20) add_consts: 7951c0985954f883
+  (5 20) sub_cells:  de054ce30e09233b
+  (5 20) shift_rows: de05ce34090eb233
+  (5 20) mix_cols:   865a3c0ce792bb89
+  (5 21) add_consts: 835a280cc2928f89
+  (5 21) sub_cells:  3b0f63c446e6323e
+  (5 21) shift_rows: 3b0f3c46e646e323
+  (5 21) mix_cols:   fc850e01ec20d44b
+  (5 22) add_consts: ff851e01cf20e44b
+  (5 22) sub_cells:  223051c5426c1998
+  (5 22) shift_rows: 22301c556c428199
+  (5 22) mix_cols:   6d00d22469e95c9b
+  (5 23) add_consts: 6b00c2244fe96c9b
+  (5 23) sub_cells:  a8cc4669921ea4e8
+  (5 23) shift_rows: a8cc66941e928a4e
+  (5 23) mix_cols:   985a8199e6d038e6
+  (6) add_key:   9979c4fe6f7bf509
+  (6 24) add_consts: 9d79d5fe4b7bc409
+  (6 24) sub_cells:  e7de702198d849ce
+  (6 24) shift_rows: e7de0217d898e49c
+  (6 24) mix_cols:   b60274c8460d019d
+  (6 25) add_consts: b60266c8660d339d
+  (6 25) sub_cells:  8ac6aa43aac7bbe7
+  (6 25) shift_rows: 8ac6a43ac7aa7bbe
+  (6 25) mix_cols:   9149d3baa0868d8f
+  (6 26) add_consts: 9149c6ba8086b88f
+  (6 26) sub_cells:  e59e4a8f3c3a8332
+  (6 26) shift_rows: e59ea8f43a3c2833
+  (6 26) mix_cols:   5bd43a5124ccf201
+  (6 27) add_consts: 5ad4295105ccc101
+  (6 27) sub_cells:  0f796e05c04445c5
+  (6 27) shift_rows: 0f79e05644c0545c
+  (6 27) mix_cols:   c9bf8d4defd87ed0
+  (7) add_key:   c89cc82a6673b33f
+  (7 28) add_consts: ca9cdf2a4473843f
+  (7 28) sub_cells:  4fe4726f99db39b2
+  (7 28) shift_rows: 4fe426f7db99239b
+  (7 28) mix_cols:   cc20ad53fb5fec01
+  (7 29) add_consts: c920bb53de5fda01
+  (7 29) sub_cells:  4e6c880b71027fc5
+  (7 29) shift_rows: 4e6c80b8027157fc
+  (7 29) mix_cols:   1734e26485a8a61a
+  (7 30) add_consts: 1434f664a6a8921a
+  (7 30) sub_cells:  59b92aa9faf3e65f
+  (7 30) shift_rows: 59b9aa92f3fafe65
+  (7 30) mix_cols:   d12d505150104c18
+  (7 31) add_consts: d62d405177107c18
+  (7 31) sub_cells:  7a679c05dd5cd453
+  (7 31) shift_rows: 7a67c0595cdd3d45
+  (7 31) mix_cols:   fcf5beffcc53d9b9
+  final add_key:   fdd6fb9845f81456
+
+OK
